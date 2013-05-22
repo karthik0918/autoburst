@@ -2,6 +2,9 @@
 
 class Helloprint(object):
     def printtext(self):
-        print "hello world"
-        str = "Hello world"
+        sstr = "Hello world"
         return str
+
+    def printnum(self):
+        num = 10
+        return num
