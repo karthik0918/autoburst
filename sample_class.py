@@ -8,3 +8,6 @@ class DemoClass(object):
     def returnNumber(self):
         num = 10
         return num
+    
+    def returnPass(self):
+        pass
