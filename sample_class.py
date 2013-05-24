@@ -9,7 +9,6 @@ class DemoClass(object):
         num = 10
         return num
     
-    def returnPass(self):
-        pass
+
         
     
