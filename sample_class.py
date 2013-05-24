@@ -1,10 +1,10 @@
-/usr/bin/python
+#!/usr/bin/python
 
-class Helloprint(object):
-    def printtext(self):
-        sstr = "Hello world"
-        return str
+class DemoClass(object):
+    def returnString(self):
+        rstring = "just a demo"
+        return rstring
 
-    def printnum(self):
+    def returnNumber(self):
         num = 10
         return num
