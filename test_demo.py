@@ -1,5 +1,5 @@
 import nose
-from autoburst.sample_class import DemoClass
+from sample_class import DemoClass
 
 class TestDemo(object):
     
